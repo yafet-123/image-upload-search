@@ -1,6 +1,6 @@
 ## Pixabay Image Gallery - React & Tailwind CSS
 
-Simple gallery with images from the pixabay API.(https://pixabay.com/api/docs/)
+Simple gallery with images from the pixabay API (https://pixabay.com/api/docs/).
 
 Open https://image-upload-search.vercel.app/ with your browser to see the result.
 
