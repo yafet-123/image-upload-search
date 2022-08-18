@@ -1,4 +1,4 @@
-### Pixabay Image Gallery - React & Tailwind CSS
+##Pixabay Image Gallery - React & Tailwind CSS
 
 Simple gallery with images from the pixabay API.(https://pixabay.com/api/docs/)
 
